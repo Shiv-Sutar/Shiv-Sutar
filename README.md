@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 About Me: 
+Hiiii I'm Shiv-
 "Enthusiastic Java Full Stack Developer with knowledge of front-end technologies like HTML, CSS, and JavaScript along with backend development using Java. I have developed projects such as NutriCare and Spotify Clone, focusing on functionality, responsiveness, and user experience. I am passionate about coding, continuously learning, and building impactful web applications."
 
 
